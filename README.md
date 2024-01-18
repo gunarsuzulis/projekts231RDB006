@@ -1,5 +1,7 @@
 # Projekta darbs
 
+**Projekts tika veidots pārī Emīls Mežaks(231RDB025) un Gunārs Užulis(231RDB006)**
+
 ## Uzdevuma apraksts
 
 Izmantojot Selenium bibliotēku automatizēt automašīnu meklēšanu tīmekļvietnēs, terminālī ievadot jums nepieciešamos automasīnas meklēšanas filtrus(parametrus), kā arī salīdzināt 2 auto tīmekļvietņu izdotos rezultātus. Šajā projektā tika izmantotas https://www.ss.com/ un https://lv.m.autoplius.lt/ tīmekļvietnes. Lai iegūtu vēlamos automašīnu sarakstus no šīm tīmekļvietnēm, ir nepieciešams terminālī ierakstīt nepieciešamos meklēšanas filtrus (automašīnas marku, modeli, izlaiduma gadu, degvielas tipu, ātrumkārbas tipu un virsbūves tipu), kā rezultātā tiks automātiski ievadīti šie filtri un izdoti saraksti no auto tīmekļvietnēm. Lai tiktu izvadīti saraksti ar automašīnām no tīmekļvietnēm, ir jāpievērš uzmanību dažiem nosacījumiem:
