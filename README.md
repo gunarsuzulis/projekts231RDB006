@@ -34,3 +34,8 @@ Izmantojot Selenium bibliotēku automatizēt automašīnu meklēšanu tīmekļvi
 ### nosacījums if
 
 - Projekta izstrādes laikā tika izmantoti nosacījumi if, lai izveidotu nosacījumu paziņojumus, kas ļauj izpildīt koda bloku tikai tad, ja nosacījums ir patiess.
+
+
+## Programmatūras darbības un rezultāta video
+
+- Šeit var noskatīties programmatūras darbības un rezultāta video (https://failiem.lv/f/svwavpcd37)
